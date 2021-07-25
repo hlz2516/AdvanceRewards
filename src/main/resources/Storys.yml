@@ -1,0 +1,2275 @@
+Storys:
+  '1':
+    story: recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb
+  '2':
+    story: recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting
+  '3':
+    story: recipes/redstone/lever
+  '4':
+    story: nether/obtain_crying_obsidian
+  '5':
+    story: recipes/redstone/acacia_button
+  '6':
+    story: recipes/combat/iron_sword
+  '7':
+    story: recipes/decorations/brick_wall
+  '8':
+    story: recipes/decorations/gray_glazed_terracotta
+  '9':
+    story: recipes/misc/light_blue_dye_from_blue_orchid
+  '10':
+    story: recipes/misc/magenta_dye_from_lilac
+  '11':
+    story: recipes/building_blocks/stone_bricks
+  '12':
+    story: recipes/redstone/observer
+  '13':
+    story: recipes/building_blocks/polished_deepslate
+  '14':
+    story: recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting
+  '15':
+    story: recipes/building_blocks/exposed_cut_copper_stairs
+  '16':
+    story: recipes/misc/light_gray_dye_from_white_tulip
+  '17':
+    story: recipes/building_blocks/lime_concrete_powder
+  '18':
+    story: recipes/tools/iron_pickaxe
+  '19':
+    story: recipes/combat/leather_helmet
+  '20':
+    story: recipes/building_blocks/polished_blackstone_brick_slab
+  '21':
+    story: recipes/building_blocks/magenta_wool
+  '22':
+    story: recipes/building_blocks/polished_granite_stairs
+  '23':
+    story: recipes/building_blocks/copper_block
+  '24':
+    story: recipes/misc/melon_seeds
+  '25':
+    story: recipes/building_blocks/magma_block
+  '26':
+    story: recipes/decorations/blast_furnace
+  '27':
+    story: recipes/decorations/ladder
+  '28':
+    story: recipes/building_blocks/dark_oak_slab
+  '29':
+    story: recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting
+  '30':
+    story: recipes/decorations/red_nether_brick_wall
+  '31':
+    story: recipes/decorations/magenta_stained_glass_pane
+  '32':
+    story: recipes/redstone/spruce_button
+  '33':
+    story: recipes/decorations/torch
+  '34':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting
+  '35':
+    story: recipes/decorations/black_carpet_from_white_carpet
+  '36':
+    story: recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting
+  '37':
+    story: recipes/misc/popped_chorus_fruit
+  '38':
+    story: nether/distract_piglin
+  '39':
+    story: recipes/building_blocks/stone_brick_slab_from_stone_stonecutting
+  '40':
+    story: recipes/misc/flower_banner_pattern
+  '41':
+    story: recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting
+  '42':
+    story: recipes/building_blocks/lime_terracotta
+  '43':
+    story: recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting
+  '44':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb
+  '45':
+    story: recipes/building_blocks/dark_oak_planks
+  '46':
+    story: recipes/food/cake
+  '47':
+    story: recipes/transportation/detector_rail
+  '48':
+    story: recipes/combat/iron_leggings
+  '49':
+    story: recipes/building_blocks/sandstone_stairs
+  '50':
+    story: recipes/redstone/dark_oak_door
+  '51':
+    story: recipes/building_blocks/light_gray_terracotta
+  '52':
+    story: recipes/combat/shield
+  '53':
+    story: recipes/decorations/brown_banner
+  '54':
+    story: recipes/misc/coal_from_smelting_deepslate_coal_ore
+  '55':
+    story: recipes/building_blocks/red_sandstone_stairs
+  '56':
+    story: recipes/decorations/gray_bed
+  '57':
+    story: recipes/food/dried_kelp_from_smoking
+  '58':
+    story: recipes/redstone/hopper
+  '59':
+    story: recipes/misc/emerald_from_smelting_emerald_ore
+  '60':
+    story: recipes/building_blocks/coarse_dirt
+  '61':
+    story: recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting
+  '62':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting
+  '63':
+    story: recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting
+  '64':
+    story: recipes/building_blocks/light_gray_concrete_powder
+  '65':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting
+  '66':
+    story: recipes/decorations/magenta_carpet
+  '67':
+    story: recipes/misc/creeper_banner_pattern
+  '68':
+    story: recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting
+  '69':
+    story: recipes/misc/lime_dye
+  '70':
+    story: recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting
+  '71':
+    story: recipes/misc/gold_ingot_from_smelting_raw_gold
+  '72':
+    story: recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore
+  '73':
+    story: recipes/combat/leather_leggings
+  '74':
+    story: recipes/building_blocks/pink_concrete_powder
+  '75':
+    story: recipes/building_blocks/sandstone_slab
+  '76':
+    story: recipes/building_blocks/smooth_basalt
+  '77':
+    story: recipes/misc/emerald
+  '78':
+    story: recipes/building_blocks/andesite_stairs_from_andesite_stonecutting
+  '79':
+    story: recipes/decorations/iron_bars
+  '80':
+    story: recipes/building_blocks/tinted_glass
+  '81':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting
+  '82':
+    story: recipes/redstone/crimson_button
+  '83':
+    story: recipes/building_blocks/brick_stairs
+  '84':
+    story: recipes/building_blocks/blue_wool
+  '85':
+    story: recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting
+  '86':
+    story: story/obtain_armor
+  '87':
+    story: recipes/misc/copper_ingot
+  '88':
+    story: recipes/redstone/comparator
+  '89':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting
+  '90':
+    story: recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting
+  '91':
+    story: recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting
+  '92':
+    story: recipes/transportation/chest_minecart
+  '93':
+    story: recipes/combat/diamond_leggings
+  '94':
+    story: recipes/decorations/gray_stained_glass_pane
+  '95':
+    story: recipes/building_blocks/red_stained_glass
+  '96':
+    story: recipes/building_blocks/spruce_planks
+  '97':
+    story: recipes/decorations/lime_stained_glass_pane_from_glass_pane
+  '98':
+    story: adventure/very_very_frightening
+  '99':
+    story: story/lava_bucket
+  '100':
+    story: recipes/food/dried_kelp_from_smelting
+  '101':
+    story: recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore
+  '102':
+    story: recipes/building_blocks/netherite_block
+  '103':
+    story: recipes/building_blocks/polished_diorite_slab
+  '104':
+    story: recipes/building_blocks/quartz_stairs
+  '105':
+    story: recipes/decorations/red_carpet
+  '106':
+    story: recipes/misc/copper_ingot_from_blasting_raw_copper
+  '107':
+    story: recipes/decorations/light_blue_carpet_from_white_carpet
+  '108':
+    story: recipes/building_blocks/smooth_quartz_slab
+  '109':
+    story: recipes/decorations/black_bed
+  '110':
+    story: recipes/building_blocks/end_stone_brick_slab
+  '111':
+    story: husbandry/ride_a_boat_with_a_goat
+  '112':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting
+  '113':
+    story: recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting
+  '114':
+    story: recipes/decorations/polished_deepslate_wall
+  '115':
+    story: end/kill_dragon
+  '116':
+    story: recipes/building_blocks/polished_blackstone_brick_stairs
+  '117':
+    story: recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting
+  '118':
+    story: adventure/lightning_rod_with_villager_no_fire
+  '119':
+    story: recipes/decorations/orange_bed
+  '120':
+    story: recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting
+  '121':
+    story: recipes/decorations/orange_candle
+  '122':
+    story: recipes/decorations/stone_brick_wall
+  '123':
+    story: recipes/food/cooked_beef_from_smoking
+  '124':
+    story: recipes/decorations/fletching_table
+  '125':
+    story: recipes/brewing/glistering_melon_slice
+  '126':
+    story: recipes/decorations/pink_stained_glass_pane
+  '127':
+    story: recipes/food/cooked_chicken_from_campfire_cooking
+  '128':
+    story: recipes/decorations/lime_carpet_from_white_carpet
+  '129':
+    story: recipes/misc/light_gray_dye_from_azure_bluet
+  '130':
+    story: recipes/decorations/brown_bed
+  '131':
+    story: recipes/redstone/dark_oak_fence_gate
+  '132':
+    story: recipes/building_blocks/waxed_weathered_copper_from_honeycomb
+  '133':
+    story: recipes/misc/iron_nugget_from_smelting
+  '134':
+    story: recipes/food/cooked_mutton_from_smoking
+  '135':
+    story: recipes/building_blocks/cracked_nether_bricks
+  '136':
+    story: recipes/building_blocks/deepslate_bricks
+  '137':
+    story: recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting
+  '138':
+    story: recipes/decorations/prismarine_wall_from_prismarine_stonecutting
+  '139':
+    story: nether/all_potions
+  '140':
+    story: recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting
+  '141':
+    story: recipes/misc/emerald_from_blasting_emerald_ore
+  '142':
+    story: recipes/building_blocks/smooth_quartz
+  '143':
+    story: recipes/building_blocks/polished_diorite_stairs
+  '144':
+    story: recipes/misc/diamond_from_smelting_deepslate_diamond_ore
+  '145':
+    story: recipes/misc/copper_ingot_from_smelting_copper_ore
+  '146':
+    story: recipes/combat/netherite_boots_smithing
+  '147':
+    story: recipes/misc/light_blue_dye_from_blue_white_dye
+  '148':
+    story: recipes/misc/blue_dye
+  '149':
+    story: recipes/misc/gold_ingot_from_gold_block
+  '150':
+    story: recipes/building_blocks/light_blue_stained_glass
+  '151':
+    story: recipes/building_blocks/orange_concrete_powder
+  '152':
+    story: recipes/food/baked_potato_from_campfire_cooking
+  '153':
+    story: recipes/food/cooked_porkchop
+  '154':
+    story: recipes/building_blocks/oak_slab
+  '155':
+    story: recipes/decorations/blue_stained_glass_pane
+  '156':
+    story: husbandry/tame_an_animal
+  '157':
+    story: recipes/building_blocks/chiseled_polished_blackstone
+  '158':
+    story: recipes/building_blocks/raw_copper_block
+  '159':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting
+  '160':
+    story: recipes/building_blocks/granite_stairs
+  '161':
+    story: recipes/misc/lapis_lazuli_from_blasting_lapis_ore
+  '162':
+    story: recipes/decorations/cyan_glazed_terracotta
+  '163':
+    story: recipes/misc/cyan_dye
+  '164':
+    story: recipes/decorations/purple_bed
+  '165':
+    story: husbandry/make_a_sign_glow
+  '166':
+    story: recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting
+  '167':
+    story: recipes/food/cooked_salmon_from_smoking
+  '168':
+    story: recipes/redstone/acacia_pressure_plate
+  '169':
+    story: recipes/decorations/cyan_candle
+  '170':
+    story: recipes/building_blocks/diorite_stairs_from_diorite_stonecutting
+  '171':
+    story: recipes/tools/netherite_shovel_smithing
+  '172':
+    story: recipes/brewing/glass_bottle
+  '173':
+    story: recipes/building_blocks/stripped_acacia_wood
+  '174':
+    story: nether/create_beacon
+  '175':
+    story: recipes/decorations/light_gray_glazed_terracotta
+  '176':
+    story: recipes/misc/leather
+  '177':
+    story: recipes/building_blocks/crimson_slab
+  '178':
+    story: recipes/building_blocks/mossy_stone_bricks_from_vine
+  '179':
+    story: recipes/decorations/light_gray_bed
+  '180':
+    story: recipes/redstone/birch_button
+  '181':
+    story: recipes/building_blocks/quartz_slab
+  '182':
+    story: recipes/building_blocks/crimson_stairs
+  '183':
+    story: recipes/building_blocks/blackstone_stairs
+  '184':
+    story: recipes/building_blocks/jungle_wood
+  '185':
+    story: recipes/combat/netherite_chestplate_smithing
+  '186':
+    story: recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting
+  '187':
+    story: recipes/decorations/purple_glazed_terracotta
+  '188':
+    story: recipes/building_blocks/green_stained_glass
+  '189':
+    story: recipes/misc/lime_dye_from_smelting
+  '190':
+    story: story/deflect_arrow
+  '191':
+    story: recipes/building_blocks/light_blue_wool
+  '192':
+    story: recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting
+  '193':
+    story: recipes/decorations/yellow_glazed_terracotta
+  '194':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_stairs
+  '195':
+    story: recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting
+  '196':
+    story: recipes/building_blocks/bookshelf
+  '197':
+    story: recipes/decorations/cyan_banner
+  '198':
+    story: recipes/tools/golden_axe
+  '199':
+    story: recipes/building_blocks/jungle_planks
+  '200':
+    story: recipes/decorations/red_banner
+  '201':
+    story: recipes/building_blocks/raw_gold_block
+  '202':
+    story: recipes/combat/iron_boots
+  '203':
+    story: recipes/building_blocks/chiseled_quartz_block
+  '204':
+    story: recipes/building_blocks/birch_planks
+  '205':
+    story: story/iron_tools
+  '206':
+    story: recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting
+  '207':
+    story: recipes/decorations/orange_banner
+  '208':
+    story: recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting
+  '209':
+    story: recipes/combat/iron_chestplate
+  '210':
+    story: recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting
+  '211':
+    story: recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore
+  '212':
+    story: recipes/redstone/spruce_pressure_plate
+  '213':
+    story: recipes/redstone/dark_oak_trapdoor
+  '214':
+    story: recipes/decorations/oak_sign
+  '215':
+    story: recipes/redstone/oak_trapdoor
+  '216':
+    story: recipes/building_blocks/granite_stairs_from_granite_stonecutting
+  '217':
+    story: recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting
+  '218':
+    story: recipes/misc/gold_ingot_from_blasting_gold_ore
+  '219':
+    story: recipes/building_blocks/red_concrete_powder
+  '220':
+    story: recipes/decorations/light_blue_bed_from_white_bed
+  '221':
+    story: recipes/decorations/magenta_glazed_terracotta
+  '222':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting
+  '223':
+    story: recipes/tools/golden_pickaxe
+  '224':
+    story: recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting
+  '225':
+    story: recipes/redstone/sticky_piston
+  '226':
+    story: recipes/brewing/magma_cream
+  '227':
+    story: recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting
+  '228':
+    story: recipes/building_blocks/oxidized_cut_copper_slab
+  '229':
+    story: recipes/decorations/purple_bed_from_white_bed
+  '230':
+    story: recipes/misc/book
+  '231':
+    story: recipes/building_blocks/purpur_slab
+  '232':
+    story: nether/brew_potion
+  '233':
+    story: recipes/combat/stone_sword
+  '234':
+    story: recipes/decorations/cobblestone_wall
+  '235':
+    story: recipes/building_blocks/polished_deepslate_slab
+  '236':
+    story: recipes/decorations/magenta_banner
+  '237':
+    story: recipes/brewing/fermented_spider_eye
+  '238':
+    story: recipes/misc/iron_ingot_from_smelting_raw_iron
+  '239':
+    story: recipes/tools/stone_pickaxe
+  '240':
+    story: recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting
+  '241':
+    story: recipes/building_blocks/quartz_bricks
+  '242':
+    story: recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting
+  '243':
+    story: recipes/building_blocks/brown_stained_glass
+  '244':
+    story: recipes/decorations/deepslate_brick_wall
+  '245':
+    story: recipes/decorations/purple_stained_glass_pane_from_glass_pane
+  '246':
+    story: recipes/misc/purple_dye
+  '247':
+    story: recipes/misc/black_dye
+  '248':
+    story: recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting
+  '249':
+    story: end/dragon_egg
+  '250':
+    story: recipes/building_blocks/light_gray_stained_glass
+  '251':
+    story: recipes/decorations/brown_carpet
+  '252':
+    story: recipes/food/honey_bottle
+  '253':
+    story: recipes/building_blocks/dried_kelp_block
+  '254':
+    story: recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting
+  '255':
+    story: recipes/decorations/red_stained_glass_pane
+  '256':
+    story: husbandry/fishy_business
+  '257':
+    story: recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting
+  '258':
+    story: recipes/food/dried_kelp_from_campfire_cooking
+  '259':
+    story: recipes/misc/light_gray_dye_from_gray_white_dye
+  '260':
+    story: recipes/building_blocks/lapis_block
+  '261':
+    story: recipes/combat/netherite_sword_smithing
+  '262':
+    story: recipes/decorations/acacia_sign
+  '263':
+    story: recipes/building_blocks/brick_slab
+  '264':
+    story: recipes/misc/iron_ingot_from_smelting_iron_ore
+  '265':
+    story: recipes/food/cooked_cod_from_smoking
+  '266':
+    story: recipes/decorations/lantern
+  '267':
+    story: recipes/building_blocks/waxed_oxidized_copper_from_honeycomb
+  '268':
+    story: nether/explore_nether
+  '269':
+    story: recipes/building_blocks/prismarine
+  '270':
+    story: recipes/misc/diamond
+  '271':
+    story: recipes/misc/gold_nugget_from_smelting
+  '272':
+    story: recipes/building_blocks/polished_diorite
+  '273':
+    story: recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting
+  '274':
+    story: recipes/building_blocks/light_gray_wool
+  '275':
+    story: recipes/food/cooked_chicken
+  '276':
+    story: recipes/building_blocks/red_wool
+  '277':
+    story: recipes/building_blocks/white_terracotta
+  '278':
+    story: recipes/misc/orange_dye_from_red_yellow
+  '279':
+    story: recipes/misc/brown_dye
+  '280':
+    story: recipes/tools/stone_axe
+  '281':
+    story: recipes/building_blocks/raw_iron_block
+  '282':
+    story: recipes/food/cooked_mutton
+  '283':
+    story: recipes/misc/white_dye_from_lily_of_the_valley
+  '284':
+    story: recipes/building_blocks/deepslate_tile_stairs
+  '285':
+    story: recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting
+  '286':
+    story: recipes/misc/gold_ingot_from_blasting_nether_gold_ore
+  '287':
+    story: recipes/decorations/blue_candle
+  '288':
+    story: recipes/building_blocks/purple_wool
+  '289':
+    story: recipes/food/rabbit_stew_from_brown_mushroom
+  '290':
+    story: recipes/building_blocks/magenta_concrete_powder
+  '291':
+    story: recipes/decorations/blue_bed
+  '292':
+    story: recipes/decorations/green_bed
+  '293':
+    story: recipes/decorations/lime_carpet
+  '294':
+    story: nether/ride_strider
+  '295':
+    story: adventure/sniper_duel
+  '296':
+    story: recipes/building_blocks/polished_andesite_stairs
+  '297':
+    story: recipes/transportation/furnace_minecart
+  '298':
+    story: recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting
+  '299':
+    story: recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting
+  '300':
+    story: nether/root
+  '301':
+    story: recipes/decorations/campfire
+  '302':
+    story: recipes/decorations/lime_stained_glass_pane
+  '303':
+    story: recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb
+  '304':
+    story: recipes/misc/iron_nugget
+  '305':
+    story: recipes/transportation/hopper_minecart
+  '306':
+    story: recipes/building_blocks/brown_concrete_powder
+  '307':
+    story: recipes/building_blocks/stone_slab_from_stone_stonecutting
+  '308':
+    story: recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting
+  '309':
+    story: end/levitate
+  '310':
+    story: recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting
+  '311':
+    story: recipes/decorations/blue_stained_glass_pane_from_glass_pane
+  '312':
+    story: recipes/misc/netherite_scrap_from_blasting
+  '313':
+    story: recipes/combat/diamond_sword
+  '314':
+    story: recipes/decorations/cyan_stained_glass_pane
+  '315':
+    story: recipes/decorations/purple_carpet_from_white_carpet
+  '316':
+    story: recipes/building_blocks/blue_stained_glass
+  '317':
+    story: recipes/building_blocks/cyan_wool
+  '318':
+    story: recipes/misc/white_dye
+  '319':
+    story: recipes/building_blocks/stripped_warped_hyphae
+  '320':
+    story: recipes/decorations/jukebox
+  '321':
+    story: recipes/building_blocks/cracked_stone_bricks
+  '322':
+    story: recipes/building_blocks/terracotta
+  '323':
+    story: recipes/tools/flint_and_steel
+  '324':
+    story: recipes/misc/red_dye_from_beetroot
+  '325':
+    story: recipes/building_blocks/nether_bricks
+  '326':
+    story: recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting
+  '327':
+    story: recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting
+  '328':
+    story: recipes/misc/gold_nugget
+  '329':
+    story: recipes/misc/sugar_from_sugar_cane
+  '330':
+    story: recipes/misc/iron_ingot_from_blasting_iron_ore
+  '331':
+    story: recipes/redstone/jungle_trapdoor
+  '332':
+    story: recipes/tools/wooden_hoe
+  '333':
+    story: recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting
+  '334':
+    story: recipes/decorations/respawn_anchor
+  '335':
+    story: nether/all_effects
+  '336':
+    story: recipes/misc/bucket
+  '337':
+    story: recipes/building_blocks/diorite_slab
+  '338':
+    story: adventure/bullseye
+  '339':
+    story: recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting
+  '340':
+    story: recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting
+  '341':
+    story: recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting
+  '342':
+    story: recipes/decorations/yellow_bed_from_white_bed
+  '343':
+    story: recipes/decorations/granite_wall
+  '344':
+    story: recipes/decorations/orange_stained_glass_pane
+  '345':
+    story: recipes/decorations/white_banner
+  '346':
+    story: recipes/building_blocks/light_blue_concrete_powder
+  '347':
+    story: recipes/building_blocks/orange_terracotta
+  '348':
+    story: recipes/decorations/mossy_cobblestone_wall
+  '349':
+    story: recipes/building_blocks/glass
+  '350':
+    story: recipes/decorations/white_glazed_terracotta
+  '351':
+    story: recipes/combat/iron_helmet
+  '352':
+    story: recipes/tools/golden_shovel
+  '353':
+    story: recipes/combat/bow
+  '354':
+    story: nether/get_wither_skull
+  '355':
+    story: recipes/food/cooked_chicken_from_smoking
+  '356':
+    story: recipes/redstone/oak_fence_gate
+  '357':
+    story: recipes/building_blocks/acacia_slab
+  '358':
+    story: recipes/building_blocks/smooth_sandstone
+  '359':
+    story: recipes/building_blocks/oxidized_cut_copper
+  '360':
+    story: husbandry/bred_all_animals
+  '361':
+    story: recipes/decorations/diorite_wall_from_diorite_stonecutting
+  '362':
+    story: recipes/decorations/orange_bed_from_white_bed
+  '363':
+    story: recipes/combat/diamond_chestplate
+  '364':
+    story: story/mine_stone
+  '365':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting
+  '366':
+    story: recipes/decorations/furnace
+  '367':
+    story: recipes/transportation/minecart
+  '368':
+    story: recipes/decorations/orange_glazed_terracotta
+  '369':
+    story: recipes/food/beetroot_soup
+  '370':
+    story: recipes/building_blocks/andesite_stairs
+  '371':
+    story: recipes/misc/charcoal
+  '372':
+    story: recipes/building_blocks/orange_wool
+  '373':
+    story: recipes/decorations/green_stained_glass_pane
+  '374':
+    story: recipes/tools/iron_hoe
+  '375':
+    story: recipes/tools/wooden_pickaxe
+  '376':
+    story: recipes/building_blocks/cobbled_deepslate_stairs
+  '377':
+    story: recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting
+  '378':
+    story: recipes/building_blocks/mossy_stone_brick_stairs
+  '379':
+    story: recipes/building_blocks/stone_brick_slab
+  '380':
+    story: recipes/redstone/redstone_torch
+  '381':
+    story: recipes/redstone/warped_pressure_plate
+  '382':
+    story: recipes/food/golden_apple
+  '383':
+    story: recipes/misc/gold_ingot_from_blasting_raw_gold
+  '384':
+    story: recipes/building_blocks/polished_granite_slab_from_granite_stonecutting
+  '385':
+    story: recipes/building_blocks/green_concrete_powder
+  '386':
+    story: recipes/building_blocks/polished_andesite_from_andesite_stonecutting
+  '387':
+    story: recipes/tools/iron_shovel
+  '388':
+    story: recipes/building_blocks/dark_oak_wood
+  '389':
+    story: recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting
+  '390':
+    story: recipes/building_blocks/orange_stained_glass
+  '391':
+    story: recipes/building_blocks/polished_blackstone
+  '392':
+    story: recipes/decorations/cyan_bed_from_white_bed
+  '393':
+    story: recipes/misc/diamond_from_smelting_diamond_ore
+  '394':
+    story: recipes/misc/bowl
+  '395':
+    story: recipes/food/cooked_salmon_from_campfire_cooking
+  '396':
+    story: recipes/decorations/item_frame
+  '397':
+    story: recipes/building_blocks/waxed_cut_copper_slab
+  '398':
+    story: recipes/decorations/lime_bed_from_white_bed
+  '399':
+    story: recipes/tools/clock
+  '400':
+    story: recipes/food/baked_potato_from_smoking
+  '401':
+    story: recipes/building_blocks/cut_copper_slab
+  '402':
+    story: adventure/two_birds_one_arrow
+  '403':
+    story: recipes/decorations/end_crystal
+  '404':
+    story: story/enter_the_nether
+  '405':
+    story: recipes/decorations/green_bed_from_white_bed
+  '406':
+    story: recipes/decorations/red_glazed_terracotta
+  '407':
+    story: adventure/whos_the_pillager_now
+  '408':
+    story: recipes/building_blocks/smooth_sandstone_stairs
+  '409':
+    story: recipes/food/baked_potato
+  '410':
+    story: recipes/decorations/black_stained_glass_pane_from_glass_pane
+  '411':
+    story: recipes/decorations/magenta_carpet_from_white_carpet
+  '412':
+    story: recipes/redstone/birch_door
+  '413':
+    story: recipes/decorations/green_banner
+  '414':
+    story: recipes/misc/gold_ingot_from_nuggets
+  '415':
+    story: recipes/building_blocks/cut_red_sandstone_slab
+  '416':
+    story: recipes/decorations/red_candle
+  '417':
+    story: recipes/misc/lapis_lazuli
+  '418':
+    story: story/upgrade_tools
+  '419':
+    story: recipes/combat/diamond_helmet
+  '420':
+    story: recipes/decorations/green_carpet_from_white_carpet
+  '421':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting
+  '422':
+    story: recipes/decorations/snow
+  '423':
+    story: recipes/decorations/soul_lantern
+  '424':
+    story: recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting
+  '425':
+    story: recipes/decorations/birch_fence
+  '426':
+    story: recipes/decorations/blue_bed_from_white_bed
+  '427':
+    story: recipes/decorations/sandstone_wall_from_sandstone_stonecutting
+  '428':
+    story: recipes/misc/pink_dye_from_pink_tulip
+  '429':
+    story: recipes/building_blocks/stone_brick_stairs
+  '430':
+    story: recipes/combat/golden_boots
+  '431':
+    story: adventure/walk_on_powder_snow_with_leather_boots
+  '432':
+    story: recipes/tools/wooden_axe
+  '433':
+    story: recipes/decorations/spruce_sign
+  '434':
+    story: recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting
+  '435':
+    story: recipes/misc/gold_ingot_from_smelting_gold_ore
+  '436':
+    story: recipes/building_blocks/stone_bricks_from_stone_stonecutting
+  '437':
+    story: recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting
+  '438':
+    story: husbandry/tactical_fishing
+  '439':
+    story: recipes/building_blocks/chiseled_sandstone
+  '440':
+    story: recipes/building_blocks/bricks
+  '441':
+    story: recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting
+  '442':
+    story: recipes/combat/netherite_leggings_smithing
+  '443':
+    story: recipes/decorations/painting
+  '444':
+    story: recipes/decorations/pink_bed
+  '445':
+    story: recipes/building_blocks/waxed_cut_copper
+  '446':
+    story: recipes/building_blocks/red_terracotta
+  '447':
+    story: recipes/misc/coal_from_blasting_deepslate_coal_ore
+  '448':
+    story: recipes/building_blocks/stone_slab
+  '449':
+    story: recipes/combat/arrow
+  '450':
+    story: recipes/decorations/black_carpet
+  '451':
+    story: story/cure_zombie_villager
+  '452':
+    story: recipes/misc/gold_nugget_from_blasting
+  '453':
+    story: recipes/decorations/yellow_stained_glass_pane
+  '454':
+    story: recipes/building_blocks/blue_concrete_powder
+  '455':
+    story: recipes/building_blocks/cyan_stained_glass
+  '456':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb
+  '457':
+    story: recipes/tools/netherite_axe_smithing
+  '458':
+    story: recipes/building_blocks/granite_slab_from_granite_stonecutting
+  '459':
+    story: recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting
+  '460':
+    story: recipes/decorations/jungle_sign
+  '461':
+    story: recipes/building_blocks/andesite
+  '462':
+    story: recipes/building_blocks/crimson_planks
+  '463':
+    story: recipes/combat/golden_helmet
+  '464':
+    story: recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting
+  '465':
+    story: recipes/redstone/acacia_trapdoor
+  '466':
+    story: recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting
+  '467':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting
+  '468':
+    story: recipes/decorations/brown_carpet_from_white_carpet
+  '469':
+    story: recipes/redstone/oak_pressure_plate
+  '470':
+    story: recipes/building_blocks/cut_sandstone
+  '471':
+    story: recipes/building_blocks/brick_slab_from_bricks_stonecutting
+  '472':
+    story: recipes/building_blocks/smooth_red_sandstone
+  '473':
+    story: recipes/building_blocks/black_terracotta
+  '474':
+    story: recipes/decorations/blackstone_wall
+  '475':
+    story: recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting
+  '476':
+    story: recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting
+  '477':
+    story: recipes/food/cooked_salmon
+  '478':
+    story: recipes/building_blocks/blackstone_slab
+  '479':
+    story: recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting
+  '480':
+    story: recipes/redstone/dropper
+  '481':
+    story: recipes/decorations/purple_candle
+  '482':
+    story: recipes/decorations/pink_glazed_terracotta
+  '483':
+    story: recipes/misc/coal
+  '484':
+    story: end/find_end_city
+  '485':
+    story: story/form_obsidian
+  '486':
+    story: recipes/food/cooked_rabbit
+  '487':
+    story: recipes/misc/netherite_ingot_from_netherite_block
+  '488':
+    story: end/enter_end_gateway
+  '489':
+    story: recipes/combat/leather_chestplate
+  '490':
+    story: recipes/misc/magenta_dye_from_blue_red_pink
+  '491':
+    story: recipes/decorations/yellow_candle
+  '492':
+    story: recipes/decorations/blue_carpet_from_white_carpet
+  '493':
+    story: nether/obtain_blaze_rod
+  '494':
+    story: recipes/building_blocks/polished_andesite
+  '495':
+    story: recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting
+  '496':
+    story: recipes/decorations/lime_glazed_terracotta
+  '497':
+    story: recipes/building_blocks/purpur_block
+  '498':
+    story: recipes/decorations/composter
+  '499':
+    story: recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting
+  '500':
+    story: nether/loot_bastion
+  '501':
+    story: recipes/redstone/oak_door
+  '502':
+    story: adventure/shoot_arrow
+  '503':
+    story: recipes/misc/iron_ingot_from_iron_block
+  '504':
+    story: recipes/building_blocks/polished_blackstone_stairs
+  '505':
+    story: recipes/building_blocks/end_stone_bricks
+  '506':
+    story: recipes/building_blocks/exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting
+  '507':
+    story: recipes/decorations/glow_item_frame
+  '508':
+    story: recipes/transportation/carrot_on_a_stick
+  '509':
+    story: husbandry/silk_touch_nest
+  '510':
+    story: recipes/building_blocks/dark_prismarine_stairs
+  '511':
+    story: recipes/building_blocks/pink_wool
+  '512':
+    story: recipes/decorations/andesite_wall_from_andesite_stonecutting
+  '513':
+    story: recipes/redstone/jungle_door
+  '514':
+    story: recipes/building_blocks/waxed_cut_copper_from_honeycomb
+  '515':
+    story: recipes/building_blocks/nether_brick_stairs
+  '516':
+    story: recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting
+  '517':
+    story: recipes/building_blocks/polished_granite
+  '518':
+    story: recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting
+  '519':
+    story: recipes/redstone/birch_trapdoor
+  '520':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_slab
+  '521':
+    story: recipes/building_blocks/chiseled_red_sandstone
+  '522':
+    story: recipes/redstone/spruce_trapdoor
+  '523':
+    story: recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting
+  '524':
+    story: recipes/decorations/light_gray_stained_glass_pane_from_glass_pane
+  '525':
+    story: recipes/misc/quartz
+  '526':
+    story: adventure/arbalistic
+  '527':
+    story: recipes/decorations/pink_candle
+  '528':
+    story: recipes/building_blocks/smooth_red_sandstone_slab
+  '529':
+    story: end/respawn_dragon
+  '530':
+    story: recipes/decorations/gray_carpet_from_white_carpet
+  '531':
+    story: recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting
+  '532':
+    story: recipes/decorations/soul_campfire
+  '533':
+    story: recipes/decorations/light_gray_candle
+  '534':
+    story: story/smelt_iron
+  '535':
+    story: recipes/decorations/pink_carpet_from_white_carpet
+  '536':
+    story: recipes/building_blocks/melon
+  '537':
+    story: recipes/building_blocks/deepslate_brick_stairs
+  '538':
+    story: recipes/decorations/light_blue_bed
+  '539':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting
+  '540':
+    story: recipes/building_blocks/pink_stained_glass
+  '541':
+    story: recipes/building_blocks/warped_slab
+  '542':
+    story: recipes/tools/fishing_rod
+  '543':
+    story: recipes/decorations/purple_stained_glass_pane
+  '544':
+    story: recipes/decorations/smoker
+  '545':
+    story: recipes/food/cooked_mutton_from_campfire_cooking
+  '546':
+    story: recipes/building_blocks/black_stained_glass
+  '547':
+    story: recipes/building_blocks/brick_stairs_from_bricks_stonecutting
+  '548':
+    story: recipes/building_blocks/polished_andesite_slab
+  '549':
+    story: recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting
+  '550':
+    story: nether/charge_respawn_anchor
+  '551':
+    story: recipes/redstone/spruce_door
+  '552':
+    story: recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting
+  '553':
+    story: recipes/building_blocks/cracked_polished_blackstone_bricks
+  '554':
+    story: recipes/decorations/yellow_stained_glass_pane_from_glass_pane
+  '555':
+    story: recipes/building_blocks/chiseled_stone_bricks
+  '556':
+    story: recipes/building_blocks/nether_brick_slab
+  '557':
+    story: recipes/building_blocks/gray_stained_glass
+  '558':
+    story: recipes/building_blocks/crimson_hyphae
+  '559':
+    story: recipes/building_blocks/yellow_concrete_powder
+  '560':
+    story: recipes/redstone/spruce_fence_gate
+  '561':
+    story: recipes/misc/pumpkin_seeds
+  '562':
+    story: recipes/decorations/crafting_table
+  '563':
+    story: recipes/building_blocks/purple_stained_glass
+  '564':
+    story: recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting
+  '565':
+    story: recipes/misc/map
+  '566':
+    story: recipes/combat/golden_sword
+  '567':
+    story: recipes/decorations/chest
+  '568':
+    story: story/shiny_gear
+  '569':
+    story: end/elytra
+  '570':
+    story: recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting
+  '571':
+    story: recipes/building_blocks/cobbled_deepslate_slab
+  '572':
+    story: recipes/building_blocks/red_sandstone
+  '573':
+    story: recipes/tools/wooden_shovel
+  '574':
+    story: recipes/building_blocks/purpur_stairs
+  '575':
+    story: recipes/redstone/dark_oak_button
+  '576':
+    story: recipes/tools/shears
+  '577':
+    story: recipes/misc/stick
+  '578':
+    story: recipes/redstone/crimson_pressure_plate
+  '579':
+    story: recipes/redstone/redstone_lamp
+  '580':
+    story: husbandry/wax_off
+  '581':
+    story: recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting
+  '582':
+    story: recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting
+  '583':
+    story: recipes/redstone/polished_blackstone_button
+  '584':
+    story: recipes/decorations/blue_carpet
+  '585':
+    story: recipes/decorations/beehive
+  '586':
+    story: recipes/decorations/crimson_fence
+  '587':
+    story: recipes/redstone/dispenser
+  '588':
+    story: recipes/tools/netherite_hoe_smithing
+  '589':
+    story: recipes/decorations/light_blue_glazed_terracotta
+  '590':
+    story: recipes/decorations/lime_candle
+  '591':
+    story: recipes/building_blocks/emerald_block
+  '592':
+    story: recipes/food/cooked_rabbit_from_smoking
+  '593':
+    story: recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting
+  '594':
+    story: recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting
+  '595':
+    story: recipes/building_blocks/prismarine_stairs
+  '596':
+    story: recipes/brewing/golden_carrot
+  '597':
+    story: recipes/building_blocks/nether_wart_block
+  '598':
+    story: recipes/building_blocks/cobblestone_slab
+  '599':
+    story: recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting
+  '600':
+    story: recipes/redstone/trapped_chest
+  '601':
+    story: recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting
+  '602':
+    story: recipes/building_blocks/pink_terracotta
+  '603':
+    story: recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting
+  '604':
+    story: recipes/building_blocks/stripped_crimson_hyphae
+  '605':
+    story: recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting
+  '606':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb
+  '607':
+    story: recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting
+  '608':
+    story: recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting
+  '609':
+    story: adventure/summon_iron_golem
+  '610':
+    story: recipes/building_blocks/dripstone_block
+  '611':
+    story: recipes/building_blocks/magenta_terracotta
+  '612':
+    story: recipes/misc/brick
+  '613':
+    story: recipes/misc/gold_ingot_from_smelting_nether_gold_ore
+  '614':
+    story: recipes/building_blocks/stripped_birch_wood
+  '615':
+    story: recipes/tools/spyglass
+  '616':
+    story: recipes/building_blocks/sponge
+  '617':
+    story: recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting
+  '618':
+    story: recipes/building_blocks/prismarine_brick_stairs
+  '619':
+    story: recipes/decorations/prismarine_wall
+  '620':
+    story: recipes/redstone/lectern
+  '621':
+    story: recipes/building_blocks/yellow_stained_glass
+  '622':
+    story: recipes/building_blocks/stone_stairs_from_stone_stonecutting
+  '623':
+    story: recipes/decorations/acacia_fence
+  '624':
+    story: recipes/decorations/magenta_bed_from_white_bed
+  '625':
+    story: recipes/misc/red_dye_from_rose_bush
+  '626':
+    story: recipes/redstone/warped_fence_gate
+  '627':
+    story: recipes/building_blocks/gold_block
+  '628':
+    story: recipes/misc/magenta_dye_from_purple_and_pink
+  '629':
+    story: recipes/decorations/mossy_stone_brick_wall
+  '630':
+    story: recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore
+  '631':
+    story: recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting
+  '632':
+    story: recipes/misc/yellow_dye_from_sunflower
+  '633':
+    story: nether/return_to_sender
+  '634':
+    story: recipes/decorations/white_candle
+  '635':
+    story: recipes/brewing/cauldron
+  '636':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_slab
+  '637':
+    story: recipes/decorations/armor_stand
+  '638':
+    story: adventure/sleep_in_bed
+  '639':
+    story: recipes/building_blocks/sandstone
+  '640':
+    story: recipes/food/cooked_rabbit_from_campfire_cooking
+  '641':
+    story: recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting
+  '642':
+    story: recipes/combat/turtle_helmet
+  '643':
+    story: recipes/building_blocks/oak_stairs
+  '644':
+    story: recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting
+  '645':
+    story: recipes/transportation/acacia_boat
+  '646':
+    story: recipes/redstone/iron_trapdoor
+  '647':
+    story: recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting
+  '648':
+    story: recipes/decorations/birch_sign
+  '649':
+    story: end/dragon_breath
+  '650':
+    story: adventure/root
+  '651':
+    story: recipes/building_blocks/polished_basalt_from_basalt_stonecutting
+  '652':
+    story: recipes/building_blocks/end_stone_brick_stairs
+  '653':
+    story: recipes/decorations/gray_bed_from_white_bed
+  '654':
+    story: recipes/building_blocks/white_concrete_powder
+  '655':
+    story: recipes/decorations/jungle_fence
+  '656':
+    story: recipes/building_blocks/white_wool_from_string
+  '657':
+    story: recipes/tools/diamond_pickaxe
+  '658':
+    story: recipes/redstone/lightning_rod
+  '659':
+    story: adventure/kill_all_mobs
+  '660':
+    story: recipes/decorations/brown_glazed_terracotta
+  '661':
+    story: recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting
+  '662':
+    story: recipes/misc/ender_eye
+  '663':
+    story: recipes/misc/netherite_scrap
+  '664':
+    story: recipes/building_blocks/birch_wood
+  '665':
+    story: story/enchant_item
+  '666':
+    story: recipes/decorations/yellow_banner
+  '667':
+    story: recipes/redstone/redstone_block
+  '668':
+    story: recipes/decorations/brown_stained_glass_pane_from_glass_pane
+  '669':
+    story: recipes/building_blocks/lime_stained_glass
+  '670':
+    story: recipes/decorations/pink_bed_from_white_bed
+  '671':
+    story: recipes/decorations/crimson_sign
+  '672':
+    story: recipes/building_blocks/deepslate_brick_slab
+  '673':
+    story: adventure/voluntary_exile
+  '674':
+    story: recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting
+  '675':
+    story: recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting
+  '676':
+    story: recipes/decorations/brick_wall_from_bricks_stonecutting
+  '677':
+    story: recipes/decorations/granite_wall_from_granite_stonecutting
+  '678':
+    story: recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting
+  '679':
+    story: recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting
+  '680':
+    story: recipes/decorations/chain
+  '681':
+    story: recipes/building_blocks/cyan_terracotta
+  '682':
+    story: recipes/decorations/yellow_bed
+  '683':
+    story: recipes/redstone/polished_blackstone_pressure_plate
+  '684':
+    story: recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting
+  '685':
+    story: recipes/decorations/oak_fence
+  '686':
+    story: recipes/decorations/red_stained_glass_pane_from_glass_pane
+  '687':
+    story: recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting
+  '688':
+    story: recipes/food/cooked_cod_from_campfire_cooking
+  '689':
+    story: story/follow_ender_eye
+  '690':
+    story: recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting
+  '691':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_stairs
+  '692':
+    story: recipes/decorations/light_gray_carpet_from_white_carpet
+  '693':
+    story: recipes/decorations/magenta_stained_glass_pane_from_glass_pane
+  '694':
+    story: recipes/misc/coal_from_blasting_coal_ore
+  '695':
+    story: recipes/redstone/redstone_from_smelting_deepslate_redstone_ore
+  '696':
+    story: recipes/food/cooked_porkchop_from_campfire_cooking
+  '697':
+    story: recipes/misc/pink_dye_from_red_white_dye
+  '698':
+    story: recipes/brewing/blaze_powder
+  '699':
+    story: recipes/redstone/jungle_pressure_plate
+  '700':
+    story: end/root
+  '701':
+    story: recipes/building_blocks/black_wool
+  '702':
+    story: recipes/combat/golden_chestplate
+  '703':
+    story: recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting
+  '704':
+    story: recipes/misc/iron_ingot_from_blasting_raw_iron
+  '705':
+    story: recipes/building_blocks/stripped_dark_oak_wood
+  '706':
+    story: recipes/misc/blue_dye_from_cornflower
+  '707':
+    story: recipes/redstone/slime_block
+  '708':
+    story: recipes/decorations/light_blue_stained_glass_pane
+  '709':
+    story: recipes/misc/diamond_from_blasting_diamond_ore
+  '710':
+    story: recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting
+  '711':
+    story: recipes/decorations/moss_carpet
+  '712':
+    story: recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting
+  '713':
+    story: adventure/spyglass_at_parrot
+  '714':
+    story: recipes/decorations/cyan_stained_glass_pane_from_glass_pane
+  '715':
+    story: recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting
+  '716':
+    story: recipes/building_blocks/iron_block
+  '717':
+    story: recipes/decorations/blackstone_wall_from_blackstone_stonecutting
+  '718':
+    story: recipes/building_blocks/oxidized_cut_copper_stairs
+  '719':
+    story: recipes/redstone/crimson_fence_gate
+  '720':
+    story: recipes/misc/red_dye_from_poppy
+  '721':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper
+  '722':
+    story: recipes/building_blocks/acacia_wood
+  '723':
+    story: recipes/building_blocks/smooth_red_sandstone_stairs
+  '724':
+    story: recipes/building_blocks/spruce_wood
+  '725':
+    story: recipes/decorations/polished_blackstone_brick_wall
+  '726':
+    story: recipes/building_blocks/clay
+  '727':
+    story: recipes/misc/yellow_dye_from_dandelion
+  '728':
+    story: recipes/building_blocks/amethyst_block
+  '729':
+    story: recipes/combat/wooden_sword
+  '730':
+    story: recipes/decorations/gray_banner
+  '731':
+    story: recipes/building_blocks/oak_planks
+  '732':
+    story: recipes/decorations/end_stone_brick_wall
+  '733':
+    story: recipes/building_blocks/gray_concrete_powder
+  '734':
+    story: recipes/decorations/light_blue_carpet
+  '735':
+    story: recipes/decorations/light_gray_banner
+  '736':
+    story: husbandry/obtain_netherite_hoe
+  '737':
+    story: recipes/tools/iron_axe
+  '738':
+    story: recipes/building_blocks/glowstone
+  '739':
+    story: recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting
+  '740':
+    story: recipes/building_blocks/sea_lantern
+  '741':
+    story: recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting
+  '742':
+    story: recipes/decorations/black_banner
+  '743':
+    story: recipes/building_blocks/quartz_slab_from_stonecutting
+  '744':
+    story: recipes/decorations/gray_carpet
+  '745':
+    story: recipes/decorations/deepslate_tile_wall
+  '746':
+    story: recipes/redstone/tripwire_hook
+  '747':
+    story: recipes/misc/black_dye_from_wither_rose
+  '748':
+    story: recipes/misc/bone_meal
+  '749':
+    story: recipes/building_blocks/black_concrete_powder
+  '750':
+    story: recipes/decorations/cartography_table
+  '751':
+    story: recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting
+  '752':
+    story: recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting
+  '753':
+    story: recipes/decorations/orange_carpet_from_white_carpet
+  '754':
+    story: recipes/redstone/birch_fence_gate
+  '755':
+    story: recipes/redstone/stone_button
+  '756':
+    story: adventure/totem_of_undying
+  '757':
+    story: recipes/combat/crossbow
+  '758':
+    story: recipes/decorations/cobbled_deepslate_wall
+  '759':
+    story: recipes/building_blocks/yellow_wool
+  '760':
+    story: recipes/building_blocks/deepslate_tile_slab
+  '761':
+    story: recipes/food/cooked_porkchop_from_smoking
+  '762':
+    story: recipes/building_blocks/polished_diorite_from_diorite_stonecutting
+  '763':
+    story: recipes/building_blocks/prismarine_bricks
+  '764':
+    story: recipes/building_blocks/cracked_deepslate_bricks
+  '765':
+    story: recipes/building_blocks/chiseled_deepslate
+  '766':
+    story: recipes/building_blocks/chiseled_nether_bricks
+  '767':
+    story: recipes/building_blocks/warped_planks
+  '768':
+    story: recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting
+  '769':
+    story: recipes/building_blocks/exposed_cut_copper_slab
+  '770':
+    story: recipes/misc/iron_nugget_from_blasting
+  '771':
+    story: recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting
+  '772':
+    story: recipes/decorations/warped_fence
+  '773':
+    story: recipes/building_blocks/smooth_sandstone_slab
+  '774':
+    story: adventure/kill_a_mob
+  '775':
+    story: recipes/decorations/black_glazed_terracotta
+  '776':
+    story: recipes/building_blocks/blue_terracotta
+  '777':
+    story: recipes/decorations/diorite_wall
+  '778':
+    story: recipes/building_blocks/weathered_cut_copper_stairs
+  '779':
+    story: recipes/building_blocks/stone
+  '780':
+    story: recipes/decorations/green_carpet
+  '781':
+    story: recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting
+  '782':
+    story: recipes/building_blocks/light_blue_terracotta
+  '783':
+    story: recipes/decorations/stonecutter
+  '784':
+    story: recipes/misc/gray_dye
+  '785':
+    story: adventure/adventuring_time
+  '786':
+    story: recipes/building_blocks/cut_red_sandstone
+  '787':
+    story: recipes/decorations/light_gray_carpet
+  '788':
+    story: recipes/decorations/barrel
+  '789':
+    story: recipes/building_blocks/mossy_stone_brick_slab
+  '790':
+    story: recipes/decorations/light_blue_banner
+  '791':
+    story: recipes/decorations/purple_carpet
+  '792':
+    story: recipes/decorations/smithing_table
+  '793':
+    story: recipes/building_blocks/cut_copper
+  '794':
+    story: husbandry/plant_seed
+  '795':
+    story: recipes/redstone/stone_pressure_plate
+  '796':
+    story: nether/find_bastion
+  '797':
+    story: recipes/building_blocks/polished_blackstone_slab
+  '798':
+    story: recipes/combat/leather_boots
+  '799':
+    story: recipes/misc/red_dye_from_tulip
+  '800':
+    story: husbandry/axolotl_in_a_bucket
+  '801':
+    story: recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting
+  '802':
+    story: recipes/misc/netherite_ingot
+  '803':
+    story: recipes/building_blocks/cut_sandstone_slab
+  '804':
+    story: recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting
+  '805':
+    story: recipes/misc/sugar_from_honey_bottle
+  '806':
+    story: recipes/misc/orange_dye_from_orange_tulip
+  '807':
+    story: recipes/decorations/grindstone
+  '808':
+    story: recipes/building_blocks/diamond_block
+  '809':
+    story: recipes/decorations/flower_pot
+  '810':
+    story: recipes/misc/raw_iron
+  '811':
+    story: adventure/spyglass_at_dragon
+  '812':
+    story: recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting
+  '813':
+    story: recipes/decorations/yellow_carpet
+  '814':
+    story: recipes/building_blocks/stripped_oak_wood
+  '815':
+    story: recipes/decorations/orange_stained_glass_pane_from_glass_pane
+  '816':
+    story: recipes/transportation/tnt_minecart
+  '817':
+    story: recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting
+  '818':
+    story: recipes/misc/stick_from_bamboo_item
+  '819':
+    story: recipes/building_blocks/waxed_exposed_cut_copper
+  '820':
+    story: recipes/decorations/sandstone_wall
+  '821':
+    story: recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting
+  '822':
+    story: recipes/food/cookie
+  '823':
+    story: recipes/decorations/andesite_wall
+  '824':
+    story: recipes/decorations/light_blue_stained_glass_pane_from_glass_pane
+  '825':
+    story: recipes/building_blocks/andesite_slab
+  '826':
+    story: recipes/decorations/red_bed_from_white_bed
+  '827':
+    story: recipes/building_blocks/acacia_stairs
+  '828':
+    story: recipes/misc/light_gray_dye_from_oxeye_daisy
+  '829':
+    story: recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting
+  '830':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting
+  '831':
+    story: recipes/decorations/blue_banner
+  '832':
+    story: recipes/misc/fire_charge
+  '833':
+    story: recipes/decorations/soul_torch
+  '834':
+    story: recipes/misc/light_gray_dye_from_black_white_dye
+  '835':
+    story: recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting
+  '836':
+    story: recipes/building_blocks/yellow_terracotta
+  '837':
+    story: recipes/decorations/brown_candle
+  '838':
+    story: recipes/building_blocks/quartz_pillar
+  '839':
+    story: husbandry/wax_on
+  '840':
+    story: recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting
+  '841':
+    story: recipes/building_blocks/purple_terracotta
+  '842':
+    story: recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting
+  '843':
+    story: recipes/misc/writable_book
+  '844':
+    story: recipes/misc/wheat
+  '845':
+    story: recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting
+  '846':
+    story: recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting
+  '847':
+    story: recipes/decorations/lime_banner
+  '848':
+    story: recipes/decorations/white_bed
+  '849':
+    story: recipes/misc/green_dye
+  '850':
+    story: recipes/decorations/magenta_bed
+  '851':
+    story: recipes/redstone/honey_block
+  '852':
+    story: recipes/building_blocks/dark_prismarine
+  '853':
+    story: recipes/food/rabbit_stew_from_red_mushroom
+  '854':
+    story: recipes/redstone/birch_pressure_plate
+  '855':
+    story: adventure/hero_of_the_village
+  '856':
+    story: recipes/decorations/candle
+  '857':
+    story: recipes/redstone/redstone
+  '858':
+    story: recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting
+  '859':
+    story: recipes/tools/golden_hoe
+  '860':
+    story: recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting
+  '861':
+    story: recipes/food/bread
+  '862':
+    story: recipes/building_blocks/diorite_slab_from_diorite_stonecutting
+  '863':
+    story: recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting
+  '864':
+    story: recipes/building_blocks/smooth_stone
+  '865':
+    story: recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore
+  '866':
+    story: nether/obtain_ancient_debris
+  '867':
+    story: recipes/decorations/nether_brick_wall
+  '868':
+    story: recipes/decorations/black_bed_from_white_bed
+  '869':
+    story: recipes/decorations/pink_carpet
+  '870':
+    story: recipes/misc/bone_meal_from_bone_block
+  '871':
+    story: recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore
+  '872':
+    story: recipes/decorations/magenta_candle
+  '873':
+    story: recipes/decorations/red_carpet_from_white_carpet
+  '874':
+    story: recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting
+  '875':
+    story: nether/create_full_beacon
+  '876':
+    story: recipes/building_blocks/packed_ice
+  '877':
+    story: recipes/transportation/spruce_boat
+  '878':
+    story: recipes/building_blocks/diorite
+  '879':
+    story: recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting
+  '880':
+    story: recipes/misc/firework_rocket_simple
+  '881':
+    story: recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore
+  '882':
+    story: nether/summon_wither
+  '883':
+    story: recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting
+  '884':
+    story: recipes/food/mushroom_stew
+  '885':
+    story: recipes/building_blocks/gray_wool
+  '886':
+    story: recipes/building_blocks/polished_granite_from_granite_stonecutting
+  '887':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_slab
+  '888':
+    story: recipes/building_blocks/deepslate_tiles
+  '889':
+    story: husbandry/balanced_diet
+  '890':
+    story: recipes/building_blocks/gray_terracotta
+  '891':
+    story: recipes/redstone/redstone_from_blasting_deepslate_redstone_ore
+  '892':
+    story: recipes/food/cooked_cod
+  '893':
+    story: recipes/tools/netherite_pickaxe_smithing
+  '894':
+    story: recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting
+  '895':
+    story: recipes/building_blocks/warped_hyphae
+  '896':
+    story: recipes/redstone/jungle_button
+  '897':
+    story: nether/fast_travel
+  '898':
+    story: recipes/building_blocks/red_nether_brick_slab
+  '899':
+    story: recipes/building_blocks/cobblestone_stairs
+  '900':
+    story: recipes/building_blocks/birch_slab
+  '901':
+    story: recipes/misc/copper_ingot_from_blasting_copper_ore
+  '902':
+    story: recipes/misc/raw_gold
+  '903':
+    story: recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting
+  '904':
+    story: recipes/redstone/note_block
+  '905':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb
+  '906':
+    story: recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting
+  '907':
+    story: recipes/decorations/green_stained_glass_pane_from_glass_pane
+  '908':
+    story: recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting
+  '909':
+    story: recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting
+  '910':
+    story: recipes/decorations/pink_banner
+  '911':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_stairs
+  '912':
+    story: recipes/redstone/redstone_from_smelting_redstone_ore
+  '913':
+    story: recipes/building_blocks/prismarine_brick_slab
+  '914':
+    story: recipes/building_blocks/hay_block
+  '915':
+    story: recipes/misc/leather_horse_armor
+  '916':
+    story: recipes/decorations/lime_bed
+  '917':
+    story: recipes/building_blocks/waxed_exposed_copper_from_honeycomb
+  '918':
+    story: recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting
+  '919':
+    story: recipes/misc/magenta_dye_from_blue_red_white_dye
+  '920':
+    story: recipes/redstone/tnt
+  '921':
+    story: recipes/decorations/black_stained_glass_pane
+  '922':
+    story: recipes/building_blocks/granite
+  '923':
+    story: recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting
+  '924':
+    story: recipes/building_blocks/purple_concrete_powder
+  '925':
+    story: recipes/building_blocks/smooth_stone_slab
+  '926':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting
+  '927':
+    story: recipes/misc/emerald_from_smelting_deepslate_emerald_ore
+  '928':
+    story: recipes/building_blocks/prismarine_slab
+  '929':
+    story: recipes/decorations/orange_carpet
+  '930':
+    story: recipes/decorations/cyan_carpet_from_white_carpet
+  '931':
+    story: recipes/redstone/target
+  '932':
+    story: recipes/misc/beacon
+  '933':
+    story: recipes/building_blocks/red_nether_bricks
+  '934':
+    story: recipes/redstone/crimson_door
+  '935':
+    story: recipes/building_blocks/cut_copper_stairs
+  '936':
+    story: recipes/decorations/cyan_carpet
+  '937':
+    story: husbandry/root
+  '938':
+    story: recipes/transportation/birch_boat
+  '939':
+    story: recipes/building_blocks/cut_copper_from_copper_block_stonecutting
+  '940':
+    story: recipes/misc/copper_ingot_from_waxed_copper_block
+  '941':
+    story: recipes/decorations/enchanting_table
+  '942':
+    story: recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting
+  '943':
+    story: recipes/redstone/acacia_door
+  '944':
+    story: recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting
+  '945':
+    story: recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting
+  '946':
+    story: recipes/redstone/crimson_trapdoor
+  '947':
+    story: recipes/tools/stone_hoe
+  '948':
+    story: recipes/decorations/green_glazed_terracotta
+  '949':
+    story: recipes/decorations/spruce_fence
+  '950':
+    story: recipes/tools/diamond_hoe
+  '951':
+    story: recipes/food/dried_kelp
+  '952':
+    story: recipes/combat/spectral_arrow
+  '953':
+    story: recipes/transportation/activator_rail
+  '954':
+    story: recipes/decorations/white_stained_glass_pane
+  '955':
+    story: recipes/building_blocks/dark_oak_stairs
+  '956':
+    story: recipes/tools/diamond_shovel
+  '957':
+    story: recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting
+  '958':
+    story: nether/use_lodestone
+  '959':
+    story: husbandry/safely_harvest_honey
+  '960':
+    story: recipes/building_blocks/blue_ice
+  '961':
+    story: adventure/trade
+  '962':
+    story: recipes/building_blocks/deepslate
+  '963':
+    story: recipes/building_blocks/granite_slab
+  '964':
+    story: recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb
+  '965':
+    story: recipes/decorations/ender_chest
+  '966':
+    story: recipes/decorations/white_carpet
+  '967':
+    story: recipes/decorations/dark_oak_sign
+  '968':
+    story: recipes/building_blocks/spruce_stairs
+  '969':
+    story: recipes/building_blocks/red_sandstone_slab
+  '970':
+    story: adventure/spyglass_at_ghast
+  '971':
+    story: recipes/building_blocks/dark_prismarine_slab
+  '972':
+    story: nether/uneasy_alliance
+  '973':
+    story: recipes/decorations/pink_stained_glass_pane_from_glass_pane
+  '974':
+    story: recipes/building_blocks/jack_o_lantern
+  '975':
+    story: recipes/decorations/glass_pane
+  '976':
+    story: recipes/decorations/purple_banner
+  '977':
+    story: recipes/building_blocks/magenta_stained_glass
+  '978':
+    story: recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting
+  '979':
+    story: story/mine_diamond
+  '980':
+    story: recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting
+  '981':
+    story: recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting
+  '982':
+    story: recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting
+  '983':
+    story: recipes/transportation/oak_boat
+  '984':
+    story: recipes/decorations/anvil
+  '985':
+    story: recipes/redstone/redstone_from_blasting_redstone_ore
+  '986':
+    story: recipes/decorations/black_candle
+  '987':
+    story: recipes/building_blocks/cyan_concrete_powder
+  '988':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb
+  '989':
+    story: recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting
+  '990':
+    story: recipes/building_blocks/lime_wool
+  '991':
+    story: recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting
+  '992':
+    story: recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting
+  '993':
+    story: recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting
+  '994':
+    story: recipes/misc/paper
+  '995':
+    story: recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting
+  '996':
+    story: recipes/misc/pink_dye_from_peony
+  '997':
+    story: recipes/decorations/loom
+  '998':
+    story: recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting
+  '999':
+    story: recipes/building_blocks/green_wool
+  '1000':
+    story: recipes/redstone/warped_button
+  '1001':
+    story: recipes/tools/diamond_axe
+  '1002':
+    story: husbandry/kill_axolotl_target
+  '1003':
+    story: recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting
+  '1004':
+    story: recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting
+  '1005':
+    story: recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting
+  '1006':
+    story: recipes/building_blocks/red_nether_brick_stairs
+  '1007':
+    story: recipes/building_blocks/brown_wool
+  '1008':
+    story: recipes/misc/coal_from_smelting_coal_ore
+  '1009':
+    story: nether/find_fortress
+  '1010':
+    story: recipes/misc/emerald_from_blasting_deepslate_emerald_ore
+  '1011':
+    story: recipes/building_blocks/waxed_copper_block_from_honeycomb
+  '1012':
+    story: recipes/decorations/scaffolding
+  '1013':
+    story: recipes/building_blocks/polished_blackstone_bricks
+  '1014':
+    story: recipes/building_blocks/weathered_cut_copper
+  '1015':
+    story: recipes/building_blocks/warped_stairs
+  '1016':
+    story: recipes/building_blocks/white_stained_glass
+  '1017':
+    story: recipes/redstone/warped_trapdoor
+  '1018':
+    story: recipes/decorations/blue_glazed_terracotta
+  '1019':
+    story: recipes/decorations/red_sandstone_wall
+  '1020':
+    story: recipes/building_blocks/mossy_cobblestone_from_moss_block
+  '1021':
+    story: recipes/misc/nether_brick
+  '1022':
+    story: recipes/building_blocks/andesite_slab_from_andesite_stonecutting
+  '1023':
+    story: recipes/redstone/acacia_fence_gate
+  '1024':
+    story: recipes/building_blocks/coal_block
+  '1025':
+    story: recipes/redstone/light_weighted_pressure_plate
+  '1026':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb
+  '1027':
+    story: recipes/tools/stone_shovel
+  '1028':
+    story: adventure/throw_trident
+  '1029':
+    story: recipes/building_blocks/waxed_weathered_cut_copper
+  '1030':
+    story: recipes/building_blocks/mossy_cobblestone_slab
+  '1031':
+    story: recipes/building_blocks/diorite_stairs
+  '1032':
+    story: recipes/misc/conduit
+  '1033':
+    story: recipes/building_blocks/spruce_slab
+  '1034':
+    story: recipes/building_blocks/green_terracotta
+  '1035':
+    story: recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting
+  '1036':
+    story: recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting
+  '1037':
+    story: recipes/misc/raw_copper
+  '1038':
+    story: recipes/building_blocks/brown_terracotta
+  '1039':
+    story: recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting
+  '1040':
+    story: recipes/decorations/green_candle
+  '1041':
+    story: recipes/tools/lead
+  '1042':
+    story: recipes/decorations/warped_sign
+  '1043':
+    story: recipes/decorations/white_stained_glass_pane_from_glass_pane
+  '1044':
+    story: recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting
+  '1045':
+    story: recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting
+  '1046':
+    story: recipes/building_blocks/mossy_stone_bricks_from_moss_block
+  '1047':
+    story: recipes/building_blocks/polished_deepslate_stairs
+  '1048':
+    story: recipes/decorations/shulker_box
+  '1049':
+    story: recipes/misc/skull_banner_pattern
+  '1050':
+    story: recipes/building_blocks/polished_basalt
+  '1051':
+    story: recipes/building_blocks/oak_wood
+  '1052':
+    story: story/root
+  '1053':
+    story: recipes/building_blocks/smooth_quartz_stairs
+  '1054':
+    story: recipes/misc/slime_ball
+  '1055':
+    story: recipes/decorations/lodestone
+  '1056':
+    story: recipes/brewing/brewing_stand
+  '1057':
+    story: recipes/root
+  '1058':
+    story: recipes/building_blocks/jungle_slab
+  '1059':
+    story: recipes/misc/quartz_from_blasting
+  '1060':
+    story: recipes/building_blocks/polished_granite_slab
+  '1061':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting
+  '1062':
+    story: recipes/building_blocks/acacia_planks
+  '1063':
+    story: recipes/decorations/light_blue_candle
+  '1064':
+    story: recipes/redstone/repeater
+  '1065':
+    story: recipes/tools/compass
+  '1066':
+    story: recipes/redstone/oak_button
+  '1067':
+    story: adventure/honey_block_slide
+  '1068':
+    story: adventure/ol_betsy
+  '1069':
+    story: recipes/building_blocks/quartz_block
+  '1070':
+    story: recipes/redstone/dark_oak_pressure_plate
+  '1071':
+    story: recipes/decorations/gray_candle
+  '1072':
+    story: recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting
+  '1073':
+    story: recipes/building_blocks/mossy_cobblestone_from_vine
+  '1074':
+    story: recipes/food/cooked_beef
+  '1075':
+    story: recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting
+  '1076':
+    story: recipes/redstone/iron_door
+  '1077':
+    story: recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb
+  '1078':
+    story: recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore
+  '1079':
+    story: recipes/misc/copper_ingot_from_smelting_raw_copper
+  '1080':
+    story: recipes/decorations/nether_brick_fence
+  '1081':
+    story: recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting
+  '1082':
+    story: recipes/building_blocks/snow_block
+  '1083':
+    story: recipes/misc/magenta_dye_from_allium
+  '1084':
+    story: recipes/transportation/powered_rail
+  '1085':
+    story: recipes/decorations/red_bed
+  '1086':
+    story: recipes/decorations/cyan_bed
+  '1087':
+    story: recipes/misc/iron_ingot_from_nuggets
+  '1088':
+    story: recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting
+  '1089':
+    story: recipes/building_blocks/cracked_deepslate_tiles
+  '1090':
+    story: recipes/transportation/jungle_boat
+  '1091':
+    story: recipes/building_blocks/exposed_cut_copper
+  '1092':
+    story: nether/netherite_armor
+  '1093':
+    story: recipes/building_blocks/birch_stairs
+  '1094':
+    story: recipes/building_blocks/weathered_cut_copper_slab
+  '1095':
+    story: recipes/decorations/stone_brick_walls_from_stone_stonecutting
+  '1096':
+    story: recipes/building_blocks/jungle_stairs
+  '1097':
+    story: recipes/decorations/polished_blackstone_wall
+  '1098':
+    story: recipes/redstone/heavy_weighted_pressure_plate
+  '1099':
+    story: recipes/building_blocks/purpur_pillar
+  '1100':
+    story: recipes/food/pumpkin_pie
+  '1101':
+    story: recipes/redstone/daylight_detector
+  '1102':
+    story: recipes/transportation/dark_oak_boat
+  '1103':
+    story: recipes/decorations/honeycomb_block
+  '1104':
+    story: recipes/decorations/end_rod
+  '1105':
+    story: recipes/misc/diamond_from_blasting_deepslate_diamond_ore
+  '1106':
+    story: recipes/building_blocks/waxed_cut_copper_stairs
+  '1107':
+    story: recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting
+  '1108':
+    story: recipes/decorations/brown_bed_from_white_bed
+  '1109':
+    story: story/enter_the_end
+  '1110':
+    story: husbandry/breed_an_animal
+  '1111':
+    story: recipes/redstone/jungle_fence_gate
+  '1112':
+    story: recipes/transportation/warped_fungus_on_a_stick
+  '1113':
+    story: recipes/misc/mojang_banner_pattern
+  '1114':
+    story: recipes/combat/golden_leggings
+  '1115':
+    story: recipes/redstone/piston
+  '1116':
+    story: recipes/combat/netherite_helmet_smithing
+  '1117':
+    story: recipes/misc/lapis_lazuli_from_smelting_lapis_ore
+  '1118':
+    story: recipes/building_blocks/stripped_jungle_wood
+  '1119':
+    story: recipes/building_blocks/stone_stairs
+  '1120':
+    story: recipes/redstone/warped_door
+  '1121':
+    story: husbandry/complete_catalogue
+  '1122':
+    story: recipes/decorations/gray_stained_glass_pane_from_glass_pane
+  '1123':
+    story: recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting
+  '1124':
+    story: recipes/building_blocks/stripped_spruce_wood
+  '1125':
+    story: recipes/transportation/rail
+  '1126':
+    story: recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting
+  '1127':
+    story: recipes/decorations/brown_stained_glass_pane
+  '1128':
+    story: recipes/decorations/yellow_carpet_from_white_carpet
+  '1129':
+    story: recipes/food/cooked_beef_from_campfire_cooking
+  '1130':
+    story: recipes/decorations/dark_oak_fence
+  '1131':
+    story: recipes/combat/diamond_boots
+  '1132':
+    story: recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting
+  '1133':
+    story: recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_honeycomb
+  '1134':
+    story: recipes/building_blocks/mossy_cobblestone_stairs
+  '1135':
+    story: recipes/decorations/light_gray_bed_from_white_bed
+  '1136':
+    story: recipes/decorations/light_gray_stained_glass_pane
+  '1137':
+    story: recipes/building_blocks/bone_block

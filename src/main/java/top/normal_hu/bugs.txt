@@ -1,0 +1,1 @@
+一个玩家在创建rewards后，另一个玩家仍可以以这个玩家取的reward名来创建reward

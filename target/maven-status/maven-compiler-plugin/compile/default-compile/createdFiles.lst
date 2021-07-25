@@ -1,0 +1,7 @@
+top\normal_hu\configs\RewardsConfig.class
+top\normal_hu\Reward.class
+top\normal_hu\gui\RewardGUI.class
+top\normal_hu\Main.class
+top\normal_hu\ArCommander.class
+top\normal_hu\holders\RewardHolder.class
+top\normal_hu\events\ClickRewardGUIListener.class

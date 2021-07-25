@@ -1,0 +1,8 @@
+name: AdvanceRewards
+main: top.normal_hu.Main
+version: 1.0.0
+api-version: 1.16
+commands:
+  AdvanceRewards:
+    aliases: ar
+    description: AdvanceRewards commands
