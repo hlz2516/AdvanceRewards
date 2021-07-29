@@ -7,26 +7,22 @@ package top.normal_hu.configs;
         items:
           - xxxxxx
           - xxxxxx
-        advancement: xxxxxxxxxxxx（get value from advancements.yml）
+        advancements:
+          - xxxxxxxxxxxx（get value from advancements.yml）
+          - xxxxxxxx
       'name2':
         items:
             ......
  */
 
-import com.sun.tools.jconsole.JConsoleContext;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.inventory.ItemStack;
-import org.yaml.snakeyaml.Yaml;
 import top.normal_hu.Main;
 import top.normal_hu.Reward;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Objects;
-import java.util.logging.Logger;
 
 public class RewardsConfig {
 
@@ -65,10 +61,10 @@ public class RewardsConfig {
         for (String key:keys){
             Reward reward = new Reward();
             ArrayList<ItemStack> items = (ArrayList<ItemStack>) config.get(path + key + ".items");
-            String advancement  = config.getString(path + key + ".advancement");
             reward.setName(key);
             reward.setItems(items);
-            reward.setAdvancement(advancement);
+            ArrayList<String> advs = (ArrayList<String>) config.get(path + key + ".advancements");
+            reward.setAdvancements(advs);
             rewards.add(reward);
         }
     }
@@ -80,7 +76,7 @@ public class RewardsConfig {
         String path   = "rewards.";
         for (Reward reward:rewards){
             config.set(path+reward.getName()+".items",reward.getItems());
-            config.set(path + reward.getName() + ".advancement",null);
+            config.set(path + reward.getName() + ".advancements",reward.getAdvancements());
         }
 
         try {

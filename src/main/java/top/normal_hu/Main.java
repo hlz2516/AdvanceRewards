@@ -2,6 +2,7 @@ package top.normal_hu;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import top.normal_hu.configs.RewardsConfig;
+import top.normal_hu.events.AdvancementListener;
 import top.normal_hu.events.ClickRewardGUIListener;
 
 import java.util.ArrayList;
@@ -19,7 +20,9 @@ public class Main extends JavaPlugin {
         rewards = new ArrayList<Reward>();
         RewardsConfig.loadToArray();
 
+
         getServer().getPluginManager().registerEvents(new ClickRewardGUIListener(),this);
+        getServer().getPluginManager().registerEvents(new AdvancementListener(),this);
 
         getCommand("AdvanceRewards").setExecutor(new ArCommander());
     }

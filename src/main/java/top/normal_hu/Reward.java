@@ -1,13 +1,10 @@
 package top.normal_hu;
 
-import org.bukkit.configuration.serialization.ConfigurationSerializable;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
-import java.util.Map;
 
-public class Reward implements ConfigurationSerializable {
+public class Reward{
     public String getName() {
         return Name;
     }
@@ -16,12 +13,14 @@ public class Reward implements ConfigurationSerializable {
         Name = name;
     }
 
-    public String getAdvancement() {
-        return Advancement;
+    public ArrayList<String> getAdvancements() {
+        if (Advancements == null)
+            Advancements = new ArrayList<String>();
+        return Advancements;
     }
 
-    public void setAdvancement(String advancement) {
-        Advancement = advancement;
+    public void setAdvancements(ArrayList<String> advancements) {
+        Advancements = advancements;
     }
 
     public ArrayList<ItemStack> getItems() {
@@ -35,10 +34,5 @@ public class Reward implements ConfigurationSerializable {
 
     private String Name;
     private ArrayList<ItemStack> items;
-    private String Advancement;
-
-    @Override
-    public @NotNull Map<String, Object> serialize() {
-        return null;
-    }
+    private ArrayList<String> Advancements;
 }

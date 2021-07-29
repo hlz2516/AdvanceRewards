@@ -8,9 +8,11 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import top.normal_hu.holders.RewardHolder;
 
+import java.util.ArrayList;
+
 public class RewardGUI {
     public RewardGUI(Player player) {
-        Inventory gui = Bukkit.createInventory(new RewardHolder(), 18, "set the rewards here");
+        gui = Bukkit.createInventory(new RewardHolder(), 18, "set the rewards here");
         ItemStack save = new ItemStack(Material.SNOWBALL);
         ItemMeta meta = save.getItemMeta();
         meta.setDisplayName("Click here to save the rewards!");
@@ -19,4 +21,12 @@ public class RewardGUI {
 
         player.openInventory(gui);
     }
+
+    public void setItemStacks(ArrayList<ItemStack> items){
+        for (ItemStack item:items){
+            gui.addItem(item);
+        }
+    }
+
+    private static Inventory gui;
 }
