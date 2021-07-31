@@ -1,2 +1,2 @@
 将奖励与成就绑定时，可重复绑定同一种组合
-如何将advancements.yml拷贝至datafolder目录下
+edit命令编辑创建过的reward后，会生成一个新的ward

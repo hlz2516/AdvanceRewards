@@ -18,6 +18,8 @@ public class Main extends JavaPlugin {
         inst = this;
         creatingReward = new HashMap<UUID,Reward>();
         rewards = new ArrayList<Reward>();
+
+        saveResource("advancements.yml",false);
         RewardsConfig.loadToArray();
 
 
@@ -25,6 +27,7 @@ public class Main extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new AdvancementListener(),this);
 
         getCommand("AdvanceRewards").setExecutor(new ArCommander());
+        getCommand("AdvanceRewards").setTabCompleter(new ArCompleter());
     }
 
     @Override
@@ -35,6 +38,27 @@ public class Main extends JavaPlugin {
     }
 
     public static ArrayList<Reward> getRewards(){ return rewards; }
+
+    public static ArrayList<String> getRewardsAdvs(){
+        ArrayList<String> advs = new ArrayList<String>();
+        for (Reward reward:rewards){
+            for (String adv:reward.getAdvancements()){
+                advs.add(adv);
+            }
+        }
+        return advs;
+    }
+
+    public static Reward getAdvancementBelongsTo(String advancement){
+        for (Reward reward:rewards){
+            for (String adv:reward.getAdvancements()){
+                if (adv.equals(advancement)){
+                    return reward;
+                }
+            }
+        }
+        return null;
+    }
 
     public static HashMap<UUID,Reward> getCreatingReward(){
         return creatingReward;

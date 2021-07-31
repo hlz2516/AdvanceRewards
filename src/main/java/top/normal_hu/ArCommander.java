@@ -87,13 +87,19 @@ public class ArCommander implements CommandExecutor {
                                 var advs = AdvancementsConfig.getAdvancements();
                                 for (String adv:advs){
                                     if (args[1].equals(adv)){ //advancement equal
+                                        //if this advancement has reward,then return
+                                        ArrayList<String> rewardsadvs = Main.getRewardsAdvs();
+                                        for (String rewardsadv:rewardsadvs){
+                                            if (adv.equals(rewardsadv)){
+                                                player.sendMessage("this advancement has been bound with a reward.please unbind it before bind new reward!");
+                                                return false;
+                                            }
+                                        }
+
                                         var rewards = Main.getRewards();
                                         for (Reward reward:rewards){
                                             if (args[2].toLowerCase().equals(reward.getName())){  //reward's name equal
                                                 var rewardAdvancements = reward.getAdvancements();
-                                                if (rewardAdvancements == null){
-                                                    rewardAdvancements = new ArrayList<String>();
-                                                }
                                                 rewardAdvancements.add(adv);
                                                 reward.setAdvancements(rewardAdvancements);
                                                 RewardsConfig.saveFromArray();
@@ -113,7 +119,7 @@ public class ArCommander implements CommandExecutor {
                                 for (Reward reward:rewards){
                                     if (reward.getName().equals(args[2].toLowerCase())){
                                         var advs = reward.getAdvancements();
-                                        if (advs == null){
+                                        if (advs == null || advs.size() == 0){
                                             player.sendMessage("this reward doesn't bind any advancements");
                                             return false;
                                         }
@@ -121,7 +127,7 @@ public class ArCommander implements CommandExecutor {
                                             if (adv.equals(args[1])){
                                                 advs.remove(adv);
                                                 RewardsConfig.saveFromArray();
-                                                player.sendMessage("has unbinded!");
+                                                player.sendMessage("unbinded down!");
                                                 return true;
                                             }
                                         }
